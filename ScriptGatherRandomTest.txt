@@ -18,7 +18,7 @@
 ||1preis.com^
 ||1rx-pharmacy.com^
 ||1ticketmarket.com^
-||200pills.com^
+||200pills*.*^
 ||eoutlet.2022factorysale.ru^
 ||eoutlet.2023shoponline.com^
 ||20mg-tadalafil-cheapest-price.com^
@@ -61,7 +61,7 @@
 ||abaca-versand.de^
 ||abacas-versand.de^
 ||abadi-solar24.de^
-||abarqi.com^
+||abarqi*.*^
 ||abbagirlz.com^
 ||abcbinaire.com^
 ||abfluss-frei24.de^
@@ -125,7 +125,7 @@
 ||adidasfotballsko.com^
 ||adidashungaryhu.com^
 ||adidasperu.com^
-||adidasschoenen.com^
+||adidasschoen*.*^
 ||adidassrbijashop.com^
 ||adidasyeezyboost.de^
 ||adidaszagreb.com^
@@ -267,7 +267,7 @@
 ||alles-market.de^
 ||alles-rezeptfrei.de^
 ||allesbois.de^
-||allesfurzuhause.de^
+||allesfurzuhaus*.*^
 ||allesheizung.de^
 ||allesmotokultur.de^
 ||allesnettokredit.com^
@@ -308,7 +308,7 @@
 ||alphaletedeutschland.de^
 ||alphaleteosterreich.at^
 ||alphamed-medical.com^
-||alphascrypto.com^
+||alphascrypto*.*
 ||alphaskin.de^
 ||alphateamcars.shop^
 ||alpineskiequipment.com^
@@ -426,7 +426,7 @@
 ||annenowakwelpen.de^
 ||anneschilk.com^
 ||anneshop24.de^
-||anntaylorfactoryonline.com^
+||anntaylorfactoryonl*.*^
 ||anotherdecor.com^
 ||anpicker.com^
 ||anro-haus.com^
@@ -579,7 +579,7 @@
 ||asics-suomi.com^
 ||asicsat.at^
 ||asicskuwaitsale.com^
-||asicsosterreich.at^
+||asicsosterreic*.*^
 ||asicsoutletwien.at^
 ||asneakerssalesshop.com^
 ||asolocipele.com^
@@ -822,7 +822,7 @@
 ||barth24.com^
 ||bartiesers.de^
 ||bartonladder.com^
-||baruttibikes.com^
+||baruttibik*.*^
 ||baryman.com^
 ||baseballmodern.com^
 ||baseballoutlet.pl^
@@ -1009,7 +1009,7 @@
 ||bicyclebrakediscde.com^
 ||bicyclecleaner-official.com^
 ||bicycledamsperde.com^
-||bicyclehandlebarde.com^
+||bicyclehandlebar*.*^
 ||bicycleimpellerde.com^
 ||bicyclelightsde.com^
 ||bicyclelightsshop.com^
@@ -1327,7 +1327,7 @@
 ||brennholz-saale.de^
 ||brennholz-scheiffele.de^
 ||brennholz360.com^
-||brennholzbillharz.shop^
+||brennholzbillhar*.*^
 ||brennholzescher.de^
 ||brennholzgo.de^
 ||brennholzhandelnahn.com^
@@ -1706,7 +1706,7 @@
 ||clarks-osterreich.com^
 ||clarks-schweiz.com^
 ||clarksaustria.at^
-||clarksdeutschland.de^
+||clarksdeutschla*.*^
 ||clarksdeutschlandsale.com^
 ||clarksgermany.com^
 ||clarksmontreal.net^
@@ -2049,7 +2049,7 @@
 ||damaikjhhh.com^
 ||damatro.com^
 ||dameniva.de^
-||damenparfumde.com^
+||damenparfum*.*^
 ||dando.xyz^
 ||danggood.de^
 ||dangotech.de^
@@ -2396,7 +2396,7 @@
 ||shop.drcherylkam.com^
 ||dream-cars-it.com^
 ||dreamcaffe.shop^
-||dreamcigarettes.com^
+||dreamcigarett*.*^
 ||dreamhomeoutlet.com^
 ||dreammenursery.com^
 ||drechselwebshop.com^
@@ -2787,7 +2787,7 @@
 ||eternity-diamond.com^
 ||ether-invest.com^
 ||etherischeoliediscounter.com^
-||ethicamper.shop^
+||ethicamper*.*^
 ||ethikadeutschland.com^
 ||etkick.de^
 ||etniesshoesireland.com^
@@ -2885,7 +2885,7 @@
 ||expressfreightslogistics.com^
 ||expressmuenchen.de^
 ||expresstools.eu^
-||expresuf.com^
+||expresuf*.*
 ||exptoptiontraders.live^
 ||exteom.com^
 ||extrapassion.club^
@@ -3076,7 +3076,7 @@
 ||fiat-transporter.at^
 ||fiercehealthfinance.com^
 ||fiesefalle.de^
-||fightfairtex.com^
+||fightfairt*.*^
 ||fightingequip.com^
 ||filigreejewelr.com^
 ||filip24.at^
@@ -3829,7 +3829,7 @@
 ||gutangebot.com^
 ||guteholzheizung.de^
 ||guten.store^
-||gutenfahrrader.com^
+||gutenfahrrade*.*
 ||gutes-angebot.net^
 ||gutes-holz.com^
 ||gutewelt.shop^
@@ -4479,7 +4479,7 @@
 ||immediategranimator.org^
 ||immediatemomentum.de^
 ||immediatemomentum.info^
-||immediateproair.app^
+||immediateproa*.*^
 ||immediateproair.com^
 ||immediateproair.net^
 ||immediatneupro.ai^
@@ -4928,7 +4928,7 @@
 ||kinopolis-movie.com^
 ||kinopoliswork.com^
 ||kiplingfrance.com^
-||kippiede.shop^
+||kippiede*.*^
 ||kiranolir.com^
 ||kirchweih-info.de^
 ||kisforstundholz.de^
@@ -5193,7 +5193,7 @@
 ||legerocanada.com^
 ||legerohungary.com^
 ||legeroireland.com^
-||legeromilano.it^
+||legeromilano*.*^
 ||legeroportugal.com^
 ||legeroschuhefabrikverkauf.de^
 ||legeroschuhesfabrikverkauf.de^
@@ -5513,7 +5513,7 @@
 ||maleenthiele.shop^
 ||malen-und-reisen.de^
 ||malerbedarf-sales.com^
-||malisen.de^
+||malisen*.*^
 ||mall-outdoors.com^
 ||malls-36.top^
 ||malschule-wetzlar.de^
@@ -5771,7 +5771,7 @@
 ||cdntoos.039jiasuoss.com^
 ||039vip0.com^
 ||039vip1.com^
-||039vip2.com^
+||039vip2*.*
 ||039vip3.com^
 ||039vip4.com^
 ||039vip5.com^
@@ -5891,7 +5891,7 @@
 ||0909777.com^
 ||091159.com^
 ||0933win.com^
-||094789.com^
+||094789*.*^
 ||095236.com^
 ||095bet.app^
 ||095bet.com^
@@ -6057,7 +6057,7 @@
 ||images.1097638.com^
 ||1097bets10.com^
 ||1098bets10.com^
-||1099bets10.com^
+||1099bets10*.*^
 ||10allrightcasino.com^
 ||10best-casinos.com^
 ||10bet.com^
@@ -6294,7 +6294,7 @@
 ||11c54.com^
 ||11dewapokerqq.live^
 ||11dewapokerqq.pro^
-||11dewapokerqq.vip^
+||11dewapokerqq*.*^
 ||11ev88.com^
 ||11hi88.com^
 ||11jl777.com^
@@ -6481,7 +6481,7 @@
 ||144bet2.com^
 ||144bet3.com^
 ||144bet4.com^
-||144bet6.com^
+||144bet6*.*
 ||144betcasino.com^
 ||1451joycasino.com^
 ||1453joycasino.com^
@@ -6848,7 +6848,7 @@
 ||1ccasino.com^
 ||1chafarizpg.com^
 ||1chanelpg.com^
-||1ciliospg.com^
+||1ciliospg*.*^
 ||1clickwin.com^
 ||1clickwincasinonodeposit.click^
 ||1cncbet.com^
@@ -7121,7 +7121,7 @@
 ||1win-casino46.buzz^
 ||1win-casino47.buzz^
 ||1win-casino48.buzz^
-||1win-casino49.buzz^
+||1win-casino49*.*^
 ||1win-casino4fg.buzz^
 ||1win-casino52s.xyz^
 ||1win-casino6jv.xyz^
@@ -7225,7 +7225,7 @@
 ||1wincasino2.top^
 ||1wincasinoapk.com^
 ||1wincasinoapp.com^
-||1wincasinoluckyjet.com^
+||1wincasinoluckyjet*.*^
 ||1wincasinoofficial25.top^
 ||1wincasinoofficial85.top^
 ||1wincasinoofficialsite.top^
@@ -7664,7 +7664,7 @@
 ||1xbet-29jh.click^
 ||1xbet-29qp.top^
 ||1xbet-2ahi.click^
-||1xbet-2b6d.click^
+||1xbet-2b6d*.*
 ||1xbet-2bn.top^
 ||1xbet-2er.top^
 ||1xbet-2go.top^
@@ -14652,7 +14652,7 @@
 ||21casinonodeposit.click^
 ||21casinosupplies.com^
 ||21casinosupply.com^
-||21dukes.com^
+||21dukes*.*^
 ||21gc-italia.com^
 ||21gc2-it.com^
 ||21grand-casino.com^
@@ -18661,7 +18661,7 @@
 ||8brincopg.com^
 ||8c.game^
 ||8casino.com^
-||8casino.one^
+||8casino*.*^
 ||8casino.shop^
 ||8casino-1.com^
 ||8casino-2.com^
