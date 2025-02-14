@@ -2,7 +2,7 @@
 ! Title: ScriptGatherRandomTest
 ! Description: Testing a script to gather lists from a variity of public available sources. No intended use and WILL cause breakages.
 ! Expires: Never (Static List)
-! Last modified: 14 Feb 2025 09:18 UTC
+! Last modified: 14 Feb 2025 09:32 UTC
 ! Syntax: AdBlock
 !
 ||01crypto.com^
@@ -76859,7 +76859,6 @@
 ||*.ml^
 ||*.ga^
 ||*.men^
-||*.work^
 ||*.date^
 ||*.tk^
 ||*.science^
