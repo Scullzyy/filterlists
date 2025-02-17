@@ -2,7 +2,7 @@
 ! Title: ScriptGatherRandomTest
 ! Description: Testing a script to gather lists from a variity of public available sources. No intended use and WILL cause breakages.
 ! Expires: Never (Static List)
-! Last modified: 17 Feb 2025 11:12 UTC
+! Last modified: 17 Feb 2025 13:12 UTC
 ! Syntax: AdBlock
 !
 ||01crypto.com^
@@ -43557,6 +43557,7 @@
 ||izi-casino.kz^
 ||izibet.com^
 ||izicasino.kz^
+||vsco.co^
 ||izicasino5ra.ru^
 ||iziplay.it^
 ||izmircasino148.com^
