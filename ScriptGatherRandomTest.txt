@@ -2,7 +2,7 @@
 ! Title: ScriptGatherRandomTest
 ! Description: Testing a script to gather lists from a variity of public available sources. No intended use and WILL cause breakages.
 ! Expires: Never (Static List)
-! Last modified: 14 Feb 2025 09:32 UTC
+! Last modified: 17 Feb 2025 11:12 UTC
 ! Syntax: AdBlock
 !
 ||01crypto.com^
@@ -33392,7 +33392,6 @@
 ||tglfreebets.co.uk^
 ||tglgolfbets.co.uk^
 ||thamesslots.co.uk^
-||thatprizeguy.co.uk^
 ||thebestcasinos.co.uk^
 ||thecasinos.co.uk^
 ||thememonster.co.za^
@@ -75736,7 +75735,7 @@
 ||waterkant.shop^
 ||watermotionod.com^
 ||wattcafe.fr^
-||wayfairwebsite.pro^
+||wayfairwebsit*.*^
 ||wayofwade.at^
 ||wayofwadeshoesuk.com^
 ||wayoutgermany.shop^
@@ -75829,7 +75828,7 @@
 ||whiskybests.com^
 ||whlshop.com^
 ||whoisyourlover.com^
-||wholesaleacsymarket.shop^
+||wholesaleacsymarke*.*^
 ||wholesalefactory.ru^
 ||whyspers.shop^
 ||widelyoutdooritem.com^
@@ -76428,7 +76427,6 @@
 ||koofr.eu^
 ||icedrive.net^
 ||tresorit.com^
-||idrive.com^
 ||zoho.com^
 ||wetransfer.com^
 ||sendgb.com^
@@ -76571,7 +76569,7 @@
 ||fullmovies.watch^
 ||xmovies8.tv^
 ||watchfree.to^
-||watchmoviesfree.us^
+||watchmoviesfre*.*^
 ||vumoo.to^
 ||primewire.ag^
 ||watch32.com^
@@ -76663,7 +76661,7 @@
 ||saferwe*.com^
 ||shadowsocks.org^
 ||radmin-vpn.com^
-||antizapret.pro^
+||antizapre*.*^
 ||hide.me^
 ||kproxy.com^
 ||proxylist.me^
@@ -76772,10 +76770,6 @@
 ||reddit.com^
 ||4chan.org^
 ||8kun.top^
-||forum.digitalpoint.com^
-||forum.xda-developers.com^
-||gamefaqs.gamespot.com^
-||neogaf.com^
 ||supercheats.com^
 ||blu-ray.com^
 ||dpreview.com^
@@ -76787,7 +76781,7 @@
 ||dailystar.co.uk^
 ||forums.cnet.com^
 ||forums.guru3d.com^
-||forum.gsmarena.com^
+||forum.gsmaren*.*^
 ||forums.macrumors.com^
 ||forum.hardware.fr^
 ||forum.slipstick.com^
@@ -76865,6 +76859,7 @@
 ||*.party^
 ||*.racing^
 ||*.review^
+||*.st^
 ||*.download^
 ||*.trade^
 ||*.webcam^
